@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SignupForm-Formik-Yup/static/css/main.b5164bfb.chunk.css",
+    "main.js": "/SignupForm-Formik-Yup/static/js/main.b5abb0e9.chunk.js",
+    "main.js.map": "/SignupForm-Formik-Yup/static/js/main.b5abb0e9.chunk.js.map",
+    "runtime-main.js": "/SignupForm-Formik-Yup/static/js/runtime-main.88e99034.js",
+    "runtime-main.js.map": "/SignupForm-Formik-Yup/static/js/runtime-main.88e99034.js.map",
+    "static/css/2.73a4b9c4.chunk.css": "/SignupForm-Formik-Yup/static/css/2.73a4b9c4.chunk.css",
+    "static/js/2.16386c42.chunk.js": "/SignupForm-Formik-Yup/static/js/2.16386c42.chunk.js",
+    "static/js/2.16386c42.chunk.js.map": "/SignupForm-Formik-Yup/static/js/2.16386c42.chunk.js.map",
+    "index.html": "/SignupForm-Formik-Yup/index.html",
+    "static/css/2.73a4b9c4.chunk.css.map": "/SignupForm-Formik-Yup/static/css/2.73a4b9c4.chunk.css.map",
+    "static/css/main.b5164bfb.chunk.css.map": "/SignupForm-Formik-Yup/static/css/main.b5164bfb.chunk.css.map",
+    "static/js/2.16386c42.chunk.js.LICENSE.txt": "/SignupForm-Formik-Yup/static/js/2.16386c42.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88e99034.js",
+    "static/css/2.73a4b9c4.chunk.css",
+    "static/js/2.16386c42.chunk.js",
+    "static/css/main.b5164bfb.chunk.css",
+    "static/js/main.b5abb0e9.chunk.js"
+  ]
+}
